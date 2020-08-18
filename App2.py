@@ -19,7 +19,8 @@ def lectura():
         total = vec[2]-vec[1]
         total = int(total * -1) 
         print(total)
-        print(matriz[total:,:5])
+        print(matriz[total:,:8])
+
             
 lectura()
 
